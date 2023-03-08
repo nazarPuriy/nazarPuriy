@@ -1,13 +1,20 @@
 # 👋 Hi, I’m @nazarPuriy
-## Contact me: +34 647 327 213  ||  npuriypu7@alumnes.ub.edu
-Most of the projects have been uploaded recently. This is due to the fact that I had made them some years before, when I didn't know github, or because they are part of private repositories that I can't fork. The main purpose of them is to show some of the projects that I have done. In order to give some index :
-- <a href="https://github.com/nazarPuriy/Artificial-Neural-Network">Artificial Neural Network</a>: from scratch (without ml libraries) in order to classify MNIST numbers.
-- <a href="https://github.com/nazarPuriy/WorkMeOut">Android Application</a>: android application for a social media focused on sports.
-- <a href="https://github.com/nazarPuriy/Sports">WebPage</a>: sports web page where you can log in and buy tickets for matches. This one was deployed on Heroku.
-- <a href="https://www.shadertoy.com/view/fdKyWz">Computer Graphics/Fractals</a>: I programmed lot of graphics visualization techniques and coded in OpenGL. One of the funny things that I made was the programming of a fractal. On the webpage you can move with wasd + space or activate fly with f and move upward and downward with u/j.
-- <a href="https://github.com/nazarPuriy/Wordle">Wordle</a>: client server project in which you can run one server and different clients that connect to the first one in order to play the well known wordle game.
-- <a href="https://github.com/nazarPuriy/PAE">Robot</a>: motherboard with sensors and motors that were programmed to follow a wall. This includes a simulation of the robot's world because the project was done at Covid times.
+### Contact me: +34 647 327 213  ||  npuriypu7@alumnes.ub.edu || xxnazarxx@hotmail.es
+Many of the projects I've uploaded are recent additions to my GitHub profile. This is because some of them were created several years ago, before I knew how to use GitHub, or because they are part of private repositories that I am unable to fork. The primary purpose of these projects is to showcase some of the work that I have done. Here is an index to help you navigate through them:
+- <a href="https://github.com/nazarPuriy/Artificial-Neural-Network">Artificial Neural Network</a>: I built a classifier for MNIST numbers entirely from scratch, without using any machine learning libraries.
+- <a href="https://github.com/nazarPuriy/NeRF">NeRF</a>: I have also created a tutorial implementation of the base NeRF (Neural Radiance Fields) algorithm from scratch using Jupyter Notebook and PyTorch. This tutorial is designed to provide a detailed understanding of the implementation and technical details from the original research paper.
+- <a href="https://github.com/nazarPuriy/WorkMeOut">Android Application</a>: I developed an Android application for a sports-focused social media platform.
+- <a href="https://github.com/nazarPuriy/Sports">WebPage</a>: I created a sports website that allows users to log in and purchase tickets for matches. The website was deployed on Heroku.
+- <a href="https://www.shadertoy.com/view/fdKyWz">Computer Graphics/Fractals</a>: I have experience programming various graphics visualization techniques and have worked extensively with OpenGL. One particularly enjoyable project I worked on was programming a fractal. I also created a webpage where users can use the WASD keys and spacebar to move around, or activate a "fly" mode with the F key and move up and down using the U/J keys.
+- <a href="https://github.com/nazarPuriy/Wordle">Wordle</a>: I created a client-server project that allows multiple clients to connect to a single server and play the popular word game, Wordle. The server runs continuously while clients can join or leave the game at any time.
+- <a href="https://github.com/nazarPuriy/PAE">Robot</a>: I programmed the sensors and motors of a motherboard to follow a wall. Additionally, due to the Covid pandemic, I created a simulation of the robot's environment to test and optimize the performance of the system.
 
-I have done other projects that are not uploaded here, but I can provide them. This include: media players, old-style games, reccomenders (films and series - ml), pacman (reinforcment learning - following Berkeley University project), different artificial vision projects (Scikit-learn), etc.
 
-
+In addition to the projects I have listed, I have also worked on other projects that are not currently uploaded here. These include:
+- Developing media players
+- Creating old-style games
+- Building recommendation systems for films and series using machine learning techniques
+- Implementing a reinforcement learning algorithm to play Pac-Man, following the Berkeley University project
+- Working on various artificial vision projects using Scikit-learn
+If you are interested in learning more about any of these projects, please let me know and I will be happy to provide additional details.
+- I developed a CycleGAN, an upgraded version of GAN, for style transfer. It can generate realistic images with a variety of artistic styles without paired training data.
