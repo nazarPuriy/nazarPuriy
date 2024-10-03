@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @nazarPuriy
-### Contact me: +34 647 327 213  ||  npuriypu7@alumnes.ub.edu || xxnazarxx@hotmail.es
+### Contact me: +34 647 327 213  ||  +41 076 700 54 89  ||  npuriy@ethz.ch || xxnazarxx@hotmail.es
 Many of the projects I've uploaded are recent additions to my GitHub profile. This is because some of them were created several years ago, before I knew how to use GitHub, or because they are part of private repositories that I am unable to fork. The primary purpose of these projects is to showcase some of the work that I have done. Here is an index to help you navigate through them:
 - <a href="https://github.com/nazarPuriy/Artificial-Neural-Network">Artificial Neural Network</a>: I built a classifier for MNIST numbers entirely from scratch, without using any machine learning libraries.
 - <a href="https://github.com/nazarPuriy/NeRF">NeRF</a>: I have also created a tutorial implementation of the base NeRF (Neural Radiance Fields) algorithm from scratch using Jupyter Notebook and PyTorch. This tutorial is designed to provide a detailed understanding of the implementation and technical details from the original research paper.
